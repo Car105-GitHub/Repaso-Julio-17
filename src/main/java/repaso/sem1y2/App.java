@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        NotaMateria NotaMat = new NotaMateria();
+        NotaMateria NotaMat = new NotaMateria(50,30,65,88);
+        NotaMat = 
         
 }}
